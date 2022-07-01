@@ -7,3 +7,20 @@
 # English 🇨🇦 🇦🇺
 ## Website of Android
   This is a website that I developed about the history of Android in Professor Guanabara's HTML and CSS course for the Video Course. Here I put into practice the knowledge acquired in Chapter 16 on Box Models and it was quite challenging for me to build the web interfaces to use the margin, padding and other properties, since understanding the box model is essential to start bringing the boxes to life. sites, I tried my best to do my part and then visualize the resolution of the Project in the course.
+
+## Tecnologias / Tecnologies
+- ``HTML``
+- ``CSS``
+
+## 📁 Acesso ao projeto / Access the project
+
+Portuguese: Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/LeonardoMancilha/Project-Android/find/main). <br>
+English: You can access the project files by clicking [here](https://github.com/LeonardoMancilha/Project-Android/find/main).
+
+## 📝 Licença / License
+
+Portuguese: Este projeto esta sobe a licença [MIT](./LICENSE). <br>
+English: This project is under license [MIT](./LICENSE).
+
+Portuguese: Feito com ❤️ por Leonardo Machado 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leonardomancilha/) <br>
+English: Made with ❤️ by Leonardo Machado 👋🏽 [Contact me!](https://www.linkedin.com/in/leonardomancilha/)
